@@ -1,0 +1,23 @@
+{
+  "name": "ircite2022-gitpod-workspace-nodejs-configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesCns/IRCITE2022-gitpod-workspace-nodejs-configuration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesCns/IRCITE2022-gitpod-workspace-nodejs-configuration/issues"
+  },
+  "homepage": "https://github.com/JamesCns/IRCITE2022-gitpod-workspace-nodejs-configuration#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  }
+}
